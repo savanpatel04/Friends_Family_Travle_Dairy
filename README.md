@@ -9,10 +9,12 @@ The "Friend, Family, and Travel Diary" is a vibrant online platform designed to 
 Change in application.properties file according to your credentials.
 
 
-# Database Configuration
-spring.datasource.url= jdbc:mysql://localhost:3306/mydatabase
-spring.datasource.username= myuser
-spring.datasource.password= mypassword
+### Database Configuration
+
+
+    spring.datasource.url= jdbc:mysql://localhost:3306/mydatabase
+    spring.datasource.username= myuser
+    spring.datasource.password= mypassword
 
 ### Run:
 
